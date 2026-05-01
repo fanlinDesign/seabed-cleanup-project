@@ -1,12 +1,12 @@
 # Seabed cleanup project
 
-VRpersonalwork is a Unity VR interaction project set in an underwater environment.
+Seabed cleanup project is a Unity VR interaction project set in an underwater environment.
 
 The project explores ocean cleanup and coral restoration through a sequence of simple VR interactions. Players move through the scene by collecting floating trash, reviving bleached coral with probiotic objects, and removing barnacles from a sea turtle, allowing the environment to gradually feel more alive.
 
 ## Project Overview
 
-VRpersonalwork is a small personal VR prototype focused on environmental interaction and progression. The project uses object-based tasks to guide the player through the space and combines grab interactions, visual state changes, and light narrative framing inside a single underwater scene.
+Seabed cleanup project is a small personal VR prototype focused on environmental interaction and progression. The project uses object-based tasks to guide the player through the space and combines grab interactions, visual state changes, and light narrative framing inside a single underwater scene.
 
 ## Built With
 
