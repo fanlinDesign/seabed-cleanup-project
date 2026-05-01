@@ -1,4 +1,4 @@
-# VRpersonalwork
+# Seabed cleanup project
 
 VRpersonalwork is a Unity VR interaction project set in an underwater environment.
 
